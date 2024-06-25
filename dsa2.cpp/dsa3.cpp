@@ -1,5 +1,4 @@
-// C++ program to implement
-// the above approach
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -509,6 +508,5 @@ int main()
 			<< i << " = ";
 		cout << fact << '\n';
 	}
-// This code is contributed
-// by Gatea David
+
 }
